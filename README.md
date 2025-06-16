@@ -1,4 +1,3 @@
-![Screenshot 2025-06-16 135234](https://github.com/user-attachments/assets/b9e932e8-5410-4d21-9638-ac0466e57923)
 # 🚀 Smart To-Do App
 
 A feature-rich, dynamic, and visually appealing To-Do App built with React, Redux, and Vite. This app is designed to not only manage tasks efficiently but also provide task analytics, real-time weather insights for outdoor activities, and voice-based task input to enhance user experience.
